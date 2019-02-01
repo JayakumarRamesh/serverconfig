@@ -8,7 +8,6 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 public class ServerconfigApplication {
 
-	
 	public static void main(String[] args) {
 		SpringApplication.run(ServerconfigApplication.class, args);
 	}
